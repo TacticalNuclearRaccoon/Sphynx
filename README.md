@@ -1,7 +1,7 @@
 # Sphynx
 gpt3 based streamlit app that asks dichotomic questions
 
-# Sphynx app
+## The application
 
 <br>
 Sphynx asks dichotomic questions to diagnose a dysfunction. The user needs to write the dysfunction inside the text area and the question is prompted by the sphynx.
@@ -16,7 +16,7 @@ You will need an API key to use the app.
 
 <br>
 
-## Parameters:
+### Parameters:
 
 **The temperature** : The risk that the model takes when asking the question. Temperature 0 means direct questions. Increased temperatures result in funkier questions. 
 
