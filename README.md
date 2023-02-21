@@ -14,12 +14,17 @@ The link to the application is [here](https://tacticalnuclearraccoon-sphynx-app-
 
 You will need an API key to use the app.
 
-<br>
-
 ### Parameters:
 
-**The temperature** : The risk that the model takes when asking the question. Temperature 0 means direct questions. Increased temperatures result in funkier questions. 
+***The temperature*** : The risk that the model takes when asking the question. 
+
+Temperature 0 means direct questions. Increased temperatures result in funkier questions. 
+
 
 Good luck ^^'
+
+
+
+
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/A_Sphynx_cat.jpg/1024px-A_Sphynx_cat.jpg)
